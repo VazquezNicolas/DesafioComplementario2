@@ -5,7 +5,7 @@ let contM1 =0, contM2 = 0, contM3 = 0, contM4 = 0, contM5 = 0; //Contadores de l
 let final = 0; //Confirmar compra
 let conti=1, contp = 1, contm=1;
 
-//const suma = (a , b) => {return a+b}
+const suma = (a , b) => {return a+b}
  
 const pp = [
     {
